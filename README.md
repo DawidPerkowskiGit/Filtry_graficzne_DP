@@ -1,5 +1,5 @@
 # Filtry_graficzne_DP
-Projekt aplikacji sotsującej jeden z trzech filtrów na danym obrazku. Apliakcję stworzorno w języku Python z użyciem biblioteki Tkinter.
+Projekt aplikacji przeprowadzającej filtrowanie obrazku jednym z trzech filtrów. Apliakcję stworzono w języku Python z użyciem biblioteki Tkinter.
 
 Przyklad użycia filtru wykrywania krawędzi:
 
